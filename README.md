@@ -17,7 +17,7 @@
 2. **Clone the Repository:**
    - Clone this project to your local machine using Git:
      ```bash
-     git clone https://github.com/srikanta30/Kids-Safety-Blocker.git](https://github.com/Soumyojyotisaha/Kids-Explicit-Website-Blocker-Extension..git
+     git clone https://github.com/Soumyojyotisaha/Kids-Explicit-Website-Blocker-Extension..git
      ```
 
 3. **Load the Extension:**
