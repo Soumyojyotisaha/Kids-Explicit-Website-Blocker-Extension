@@ -34,7 +34,7 @@ When a user attempts to visit a blocked website, the extension will automaticall
 
 ## Screenshots
 
-![Kids Safety Blocker](https://github.com/Soumyojyotisaha/Kids-Explicit-Website-Blocker-Extension/blob/main/snapshot.jpg "Kids Safety Blocker")
+![Kids Safety Blocker](https://github.com/Soumyojyotisaha/Kids-Explicit-Website-Blocker-Extension/blob/main/snapshot.jpg)
 
 ## Contribution
 
