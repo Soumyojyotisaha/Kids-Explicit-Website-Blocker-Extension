@@ -1,0 +1,22 @@
+{
+    "name": "Kid's Safety Website Blocker",
+    "description": "Keep Your Kids Safe While They Browse The Internet.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": ["http://*/*", "https://*/*"],
+            "js": ["blocker.js"]
+        }
+    ],
+    "permissions": [
+        "activeTab"
+    ],
+    "icons": {
+        "128": "images/kidicon.png"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "images/kidicon.png"
+    }
+}
