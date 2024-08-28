@@ -2,7 +2,9 @@
 
 **Kids Safety Blocker** is a Chrome extension designed to help parents safeguard their children from adult-themed websites. By redirecting users to a random educational website such as Khan Academy, Code.org, or freeCodeCamp, this extension ensures that young internet users remain engaged with valuable and educational content.
 
-![Kid's Safety!](https://github.com/Soumyojyotisaha/Kids-Explicit-Website-Blocker-Extension./blob/main/kidicon.png)
+<div align="center">
+  <img src="https://github.com/Soumyojyotisaha/Kids-Explicit-Website-Blocker-Extension./blob/main/kidicon.png" alt="Kid's Safety!">
+</div>
 
 ## Features
 
