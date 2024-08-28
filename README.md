@@ -38,7 +38,7 @@ When a user attempts to visit a blocked website, the extension will automaticall
 
 <div align="center">
   <a href="https://youtu.be/7r7G-4HfT5I" target="_blank">
-    <img src="https://github.com/Soumyojyotisaha/Kids-Explicit-Website-Blocker-Extension./blob/main/kidicon.png" alt="Kid's Safety!" style="width: 300px;">
+    <img src="[https://github.com/Soumyojyotisaha/Kids-Explicit-Website-Blocker-Extension./blob/main/kidicon.png](https://github.com/Soumyojyotisaha/Kids-Explicit-Website-Blocker-Extension/blob/main/images/shutterstock_2261506605-1.jpg)" alt="Kid's Safety!" style="width: 300px;">
     <div style="font-size: 24px; font-weight: bold; color: white; text-shadow: 2px 2px 4px #000000; margin-top: 10px;">
       Click Me
     </div>
