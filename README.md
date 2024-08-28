@@ -36,6 +36,15 @@
 
 When a user attempts to visit a blocked website, the extension will automatically redirect them to a random educational website. This ensures a safe browsing experience and promotes learning.
 
+<div align="center">
+  <a href="https://youtu.be/7r7G-4HfT5I" target="_blank">
+    <img src="https://github.com/Soumyojyotisaha/Kids-Explicit-Website-Blocker-Extension./blob/main/kidicon.png" alt="Kid's Safety!" style="width: 300px;">
+    <div style="font-size: 24px; font-weight: bold; color: white; text-shadow: 2px 2px 4px #000000; margin-top: 10px;">
+      Click Me
+    </div>
+  </a>
+</div>
+
 ## Screenshots
 
 ![Kids Safety Blocker](https://github.com/Soumyojyotisaha/Kids-Explicit-Website-Blocker-Extension./blob/main/snapshot.jpg)
